@@ -1,5 +1,6 @@
 /*--------------------------------------------------
     ## All responsive style
+	## all media query Here
 ---------------------------------------------------*/
 @media all and (min-width: 1600px) {
 	.navbar-area .nav-container {
