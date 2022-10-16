@@ -1271,6 +1271,16 @@ ul {
   background: #42008b;
 }
 
+.dkt-sitebar-menu .tabbable-panel li a {
+   padding: 10px;
+   margin-top: 10px;
+   color: white;
+   font-size: 14px;
+}
+.dkt-sitebar-menu .tabbable-panel .nav-tabs {
+  border: none;
+}
+
 .dkt-sitebar-menu .dkt-sitebar-close {
   position: absolute;
   right: 30px;
