@@ -1318,6 +1318,10 @@ ul {
   padding: 50px;
 }
 
+.dkt-sitebar-menu .dkt-details-inner .logo {
+
+}
+
 .dkt-sitebar-menu .dkt-market-earn {
   background: #42008b;
   padding: 50px;
@@ -1330,6 +1334,33 @@ ul {
 
 .dkt-sitebar-menu.navbar-nav-show {
   right: 0;
+}
+
+.dkt-sitebar-menu ul {
+  margin-top: 20px;
+}
+
+.dkt-sitebar-menu ul .profile {
+  width: 100%;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+}
+
+.dkt-sitebar-menu ul .profile:hover {
+  background: #510ba1;
+  
+}
+
+.dkt-sitebar-menu ul li {
+  list-style: none;
+  color: #fff;
+  margin-top: 15px;
+  display: flex;
+  font-size: 14px;
+}
+
+
+.dkt-sitebar-menu ul li:hover {
+  color: #00f9aa;
 }
 
 /*--------------------------------------------------------------
