@@ -1344,7 +1344,9 @@ ul {
   width: 100%;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
 }
-
+.dkt-sitebar-menu ul .listitem {
+  width: 100%;
+}
 .dkt-sitebar-menu ul .profile:hover {
   background: #510ba1;
   
